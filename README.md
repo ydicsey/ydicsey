@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcode.cn/u/uuu-h/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn)
