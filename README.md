@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/uuu-h?site=cn&?ext=heatmap&?theme=nord)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/uuu-h?site=cn&?ext=heatmap&?theme=nord](https://leetcard.jacoblin.cool/uuu-h?theme=nord&amp;font=Courier%20Prime&amp;ext=heatmap&amp;site=cn))
